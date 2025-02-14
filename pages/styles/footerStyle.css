@@ -1,0 +1,72 @@
+    footer.footer {
+        text-align: center;
+        padding: 20px;
+        background-color: #383838;
+        color: #ffffff;
+        width: 100%;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        box-shadow: 0 -5px 15px rgba(0, 0, 0, 0.2);
+        position: relative;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        z-index: 1000;
+        width: 100%;
+    }
+
+    footer.footer p {
+        margin: 0;
+        font-size: 14px;
+        line-height: 1.6;
+    }
+
+    footer.footer a {
+        color: #ff4d4d;
+        /* Red color for links */
+        text-decoration: none;
+        transition: color 0.3s ease;
+    }
+
+    footer.footer a:hover {
+        color: #ff1a1a;
+    }
+
+    footer.footer .highlight {
+        color: #ff4d4d;
+        font-weight: bold;
+    }
+
+    footer.footer .copyright {
+        font-size: 12px;
+        opacity: 0.8;
+        color: #b3b3b3;
+    }
+
+    footer.footer .team-members {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-top: 10px;
+    }
+
+    footer.footer .team-members span {
+        background-color: rgba(255, 77, 77, 0.1);
+        padding: 5px 10px;
+        border-radius: 20px;
+        font-size: 12px;
+        transition: transform 0.3s ease, background-color 0.3s ease;
+        color: #ffffff;
+    }
+
+    footer.footer .team-members span:hover {
+        transform: translateY(-5px);
+        background-color: rgba(255, 77, 77, 0.2);
+    }
+
+    footer.footer footer.footer-logo {
+        font-size: 18px;
+        font-weight: bold;
+        color: #ff4d4d;
+        margin-bottom: 10px;
+    }

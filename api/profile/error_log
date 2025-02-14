@@ -1,0 +1,52 @@
+[11-Feb-2025 23:22:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home/novx1544/public_html/22pk/M-Prabu-Kiandamar-Utoyo/uas/api/profile/get.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/novx1544/public_html/22pk/M-Prabu-Kiandamar-Utoyo/uas/api/profile/get.php on line 8
+[11-Feb-2025 23:22:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home/novx1544/public_html/22pk/M-Prabu-Kiandamar-Utoyo/uas/api/profile/get.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/novx1544/public_html/22pk/M-Prabu-Kiandamar-Utoyo/uas/api/profile/get.php on line 8
+[11-Feb-2025 23:32:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home/novx1544/public_html/22pk/M-Prabu-Kiandamar-Utoyo/uas/api/profile/get.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/novx1544/public_html/22pk/M-Prabu-Kiandamar-Utoyo/uas/api/profile/get.php on line 8
+[11-Feb-2025 23:32:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home/novx1544/public_html/22pk/M-Prabu-Kiandamar-Utoyo/uas/api/profile/get.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/novx1544/public_html/22pk/M-Prabu-Kiandamar-Utoyo/uas/api/profile/get.php on line 8
+[11-Feb-2025 23:33:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home/novx1544/public_html/22pk/M-Prabu-Kiandamar-Utoyo/uas/api/profile/get.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/novx1544/public_html/22pk/M-Prabu-Kiandamar-Utoyo/uas/api/profile/get.php on line 8
+[11-Feb-2025 23:37:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home/novx1544/public_html/22pk/M-Prabu-Kiandamar-Utoyo/uas/api/profile/get.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/novx1544/public_html/22pk/M-Prabu-Kiandamar-Utoyo/uas/api/profile/get.php on line 8
+[11-Feb-2025 23:37:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home/novx1544/public_html/22pk/M-Prabu-Kiandamar-Utoyo/uas/api/profile/get.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/novx1544/public_html/22pk/M-Prabu-Kiandamar-Utoyo/uas/api/profile/get.php on line 8
+[11-Feb-2025 23:37:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home/novx1544/public_html/22pk/M-Prabu-Kiandamar-Utoyo/uas/api/profile/get.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/novx1544/public_html/22pk/M-Prabu-Kiandamar-Utoyo/uas/api/profile/get.php on line 8
+[13-Feb-2025 09:35:33 Asia/Jakarta] PHP Warning:  Undefined array key "user_id" in /home/novx1544/public_html/22pk/M-Prabu-Kiandamar-Utoyo/uas/api/profile/update.php on line 32
+[13-Feb-2025 09:35:33 Asia/Jakarta] PHP Warning:  Undefined array key "user_id" in /home/novx1544/public_html/22pk/M-Prabu-Kiandamar-Utoyo/uas/api/profile/update.php on line 58
+[13-Feb-2025 09:40:17 Asia/Jakarta] PHP Warning:  Undefined array key "user_id" in /home/novx1544/public_html/22pk/M-Prabu-Kiandamar-Utoyo/uas/api/profile/update.php on line 32
+[13-Feb-2025 09:40:26 Asia/Jakarta] PHP Warning:  Undefined array key "user_id" in /home/novx1544/public_html/22pk/M-Prabu-Kiandamar-Utoyo/uas/api/profile/update.php on line 32
+[13-Feb-2025 09:43:10 Asia/Jakarta] PHP Warning:  Undefined array key "user_id" in /home/novx1544/public_html/22pk/M-Prabu-Kiandamar-Utoyo/uas/api/profile/update.php on line 32
+[13-Feb-2025 09:43:28 Asia/Jakarta] PHP Warning:  Undefined array key "user_id" in /home/novx1544/public_html/22pk/M-Prabu-Kiandamar-Utoyo/uas/api/profile/update.php on line 32
+[13-Feb-2025 09:43:34 Asia/Jakarta] PHP Warning:  Undefined array key "user_id" in /home/novx1544/public_html/22pk/M-Prabu-Kiandamar-Utoyo/uas/api/profile/update.php on line 32
+[13-Feb-2025 09:44:30 Asia/Jakarta] PHP Warning:  Undefined array key "user_id" in /home/novx1544/public_html/22pk/M-Prabu-Kiandamar-Utoyo/uas/api/profile/update.php on line 32
+[13-Feb-2025 09:44:31 Asia/Jakarta] PHP Warning:  Undefined array key "user_id" in /home/novx1544/public_html/22pk/M-Prabu-Kiandamar-Utoyo/uas/api/profile/update.php on line 32
+[13-Feb-2025 09:44:32 Asia/Jakarta] PHP Warning:  Undefined array key "user_id" in /home/novx1544/public_html/22pk/M-Prabu-Kiandamar-Utoyo/uas/api/profile/update.php on line 32
+[13-Feb-2025 09:44:44 Asia/Jakarta] PHP Warning:  Undefined array key "user_id" in /home/novx1544/public_html/22pk/M-Prabu-Kiandamar-Utoyo/uas/api/profile/update.php on line 32
+[13-Feb-2025 09:44:49 Asia/Jakarta] PHP Warning:  Undefined array key "user_id" in /home/novx1544/public_html/22pk/M-Prabu-Kiandamar-Utoyo/uas/api/profile/update.php on line 32
+[13-Feb-2025 09:45:07 Asia/Jakarta] PHP Warning:  Undefined array key "user_id" in /home/novx1544/public_html/22pk/M-Prabu-Kiandamar-Utoyo/uas/api/profile/update.php on line 32
+[13-Feb-2025 11:10:45 Asia/Jakarta] PHP Warning:  Undefined array key "user_id" in /home/novx1544/public_html/22pk/M-Prabu-Kiandamar-Utoyo/uas/api/profile/update.php on line 34
+[13-Feb-2025 11:54:31 Asia/Jakarta] PHP Warning:  Undefined array key "user_id" in /home/novx1544/public_html/22pk/M-Prabu-Kiandamar-Utoyo/uas/api/profile/update.php on line 34
+[13-Feb-2025 12:59:10 Asia/Jakarta] PHP Warning:  Undefined array key "user_id" in /home/novx1544/public_html/22pk/M-Prabu-Kiandamar-Utoyo/uas/api/profile/update.php on line 34
+[14-Feb-2025 15:53:20 Asia/Jakarta] PHP Warning:  Undefined array key "user_id" in /home/novx1544/public_html/cuanbijak.nova-agustina.my.id/api/profile/update.php on line 34
+[14-Feb-2025 17:58:18 Asia/Jakarta] PHP Warning:  Undefined array key "user_id" in /home/novx1544/public_html/cuanbijak.nova-agustina.my.id/api/profile/update.php on line 34
+[14-Feb-2025 17:58:40 Asia/Jakarta] PHP Warning:  Undefined array key "user_id" in /home/novx1544/public_html/cuanbijak.nova-agustina.my.id/api/profile/update.php on line 34
+[14-Feb-2025 17:58:50 Asia/Jakarta] PHP Warning:  Undefined array key "user_id" in /home/novx1544/public_html/cuanbijak.nova-agustina.my.id/api/profile/update.php on line 34

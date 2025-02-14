@@ -1,0 +1,2 @@
+[07-Feb-2025 09:20:16 Asia/Jakarta] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/novx1544/public_html/22pk/M-Prabu-Kiandamar-Utoyo/uas/index.php on line 139
+[07-Feb-2025 09:20:16 Asia/Jakarta] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/novx1544/public_html/22pk/M-Prabu-Kiandamar-Utoyo/uas/index.php on line 139
