@@ -10,5 +10,5 @@
         <span class="highlight">22552011218_SAPARI PUTRA PAMUNGKAS</span>
         <span class="highlight">22552011315_NIZAR MAULANA NAZAHAL</span>
     </div>
-    <p class="copyright">&copy; 2025 UAS PROGRAMAN WEB 1. All rights reserved.</p>
+    <p class="copyright">&copy; 2025 UAS PEMROGRAMAN WEB 1. All rights reserved.</p>
 </footer>
