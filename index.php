@@ -100,8 +100,8 @@
                     <a href="pages/responsive-design.php" class="feature-link">
                         <i class="feature-icon fas fa-mobile-alt"></i>
                         <h3>Responsive Design</h3>
-                        <img src="image/about-us-image.jpeg" alt="About Us" style="width: 250px; height: auto;">
-                        <p>Situs web kami tampak hebat di semua perangkat. Menyesuaikan tampilan dan tata letaknya secara otomatis berdasarkan ukuran layar dan perangkat yang digunakan</p>
+                        <img src="image/img1.png" style="width: 250px; height: auto;">
+                        <p>Situs web kami tampak hebat di semua perangkat. Menyesuaikan tampilan dan tata letaknya secara otomatis berdasarkan</p>
                         <p><a href="pages/responsive-design.php" class="read-more">Baca Selengkapnya →</a></p>                 
                     </a>
                 </div>
@@ -109,7 +109,7 @@
                     <a href="pages/keamanan.php" class="feature-link">
                         <i class="feature-icon fas fa-lock"></i>
                         <h3>Keamanan</h3>
-                        <img src="image/homepage-image.jpeg" alt="About Us" style="width: 250px; height: auto;">
+                        <img src="image/img2.png" style="width: 250px; height: auto;">
                         <p> Kami mengutamakan privasi dan keamanan Anda. Di era digital saat ini, keamanan dan privasi adalah hal yang sangat penting.</p>
                         <p><a href="pages/keamanan.php" class="read-more">Baca Selengkapnya →</a></p>
                     </a>
@@ -118,8 +118,8 @@
                     <a href="pages/customization.php" class="feature-link">
                         <i class="feature-icon fas fa-cogs"></i>
                         <h3>Dapat Disesuaikan</h3>
-                        <img src="image/cuan.png" alt="About Us" style="width: 250px; height: auto;">
-                        <p>Platform kami menawarkan berbagai opsi penyesuaian untuk memenuhi kebutuhan Anda. Kami memahami bahwa setiap pengguna memiliki kebutuhan yang berbeda. Oleh karena itu,</p>
+                        <img src="image/img3.png" style="width: 250px; height: auto;">
+                        <p>Platform kami menawarkan berbagai opsi penyesuaian untuk memenuhi kebutuhan Anda. Kami memahami bahwa setiap pengguna memiliki</p>
                         <p><a href="pages/customization.php" class="read-more">Baca Selengkapnya →</a></p>
                     </a>
                 </div>
